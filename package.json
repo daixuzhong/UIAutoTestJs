@@ -1,0 +1,19 @@
+{
+  "name": "UIAutoTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node ./startup.js",
+    "selenium-setup": "node ./build/selenium-setup.js",
+    "selenium-start": "node ./build/selenium-start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^1.0.19",
+    "selenium-standalone": "^6.16.0"
+  }
+}
