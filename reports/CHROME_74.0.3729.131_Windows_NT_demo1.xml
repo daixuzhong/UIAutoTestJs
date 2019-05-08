@@ -3,11 +3,11 @@
             failures="1"
             tests="1">
 
-  <testsuite name="demo1"
-    errors="0" failures="1" hostname="" id="" package="demo1" skipped="0"
+  <testsuite name="CreateUser"
+    errors="0" failures="1" hostname="" id="" package="CreateUser" skipped="0"
     tests="1" time="11.78" timestamp="">
   
-    <testcase name="demo1" classname="demo1" time="11.78" assertions="7">
+    <testcase name="CreateUser" classname="CreateUser" time="11.78" assertions="7">
 
     
 
@@ -22,7 +22,7 @@
       <failure message="Failed [equal]: (&#39;sidebar-light  pace-done mp-no-scroll modal-open&#39; == &#39;sidebar-light  pace-done&#39;) - expected [0;32m&#34;sidebar-light  pace-done&#34;[0m but got: [0;31m&#34;sidebar-light  pace-done mp-no-scroll modal-open&#34;[0m">    at NightwatchAPI.&lt;anonymous&gt; (D:\Future\UIAutoTest\tests\demo1.js:37:23)
     at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
 
-    <failure message="    at NightwatchAPI.&lt;anonymous&gt; (D:\Future\UIAutoTest\tests\demo1.js:37:23)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    <failure message="    at NightwatchAPI.&lt;anonymous&gt; (D:\Future\UIAutoTest\tests\CreateUser.js:37:23)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
     </testcase>
   
 
